@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/583710ccaa6717322c000105/train/python target="_blank">Simple multiplication</a></h2><h3>8 kyu</h3><p><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Este kata consiste em multiplicar um número dado por oito se for par e por nove caso contrário.</font></font></p>
